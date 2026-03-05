@@ -46,5 +46,6 @@ As the switches flood the ARP request originating from PC1 across the network, t
 ARP reply unicast
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/467b2f37-06d8-43f5-9ed0-61de2b17a8f3" />
 
+Now PC0 can send the real packet, and the switches forward it directly to PC3
 
 
