@@ -16,6 +16,5 @@ The objective of this project is to explore and analyze the fundamental concepts
 - Switch CLI for configuration and troubleshooting
 - Network topology design and analysis
 
-## Steps
 ## Lab Topology
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/7a47b5ee-4dbf-481f-bae5-02fb90bfd5f5" />
