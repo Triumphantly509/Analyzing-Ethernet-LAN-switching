@@ -32,4 +32,19 @@ Dst MAC: FFFF.FFFF.FFFF
 This is a broadcast meaning everyone in this network, please listen, who has the IP 192.168.1.3?
 Tell 192.168.1.1
 
+## Switch Behavior
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/7e2ba790-b0ca-4d71-96ba-a4bb9376243e" />
+
+The switch receives the broadcast frame floods it out all ports except the incoming port.
+Each device checks, only PC 3 responds.
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/3095b797-6e63-43a4-a2f4-19c83bf74924" />
+
+As the switches flood the ARP request originating from PC1 across the network, they update their MAC address tables by learning the source MAC address and associating it with the interface on which the frame was received.
+
+## ARP reply
+ARP reply unicast
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/467b2f37-06d8-43f5-9ed0-61de2b17a8f3" />
+
+
 
