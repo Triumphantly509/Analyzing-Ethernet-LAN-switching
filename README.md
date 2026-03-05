@@ -19,7 +19,7 @@ The objective of this project is to explore and analyze the fundamental concepts
 ## Lab Topology
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/7a47b5ee-4dbf-481f-bae5-02fb90bfd5f5" />
 
-## Arp request
+## ARP request
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/5be3f1d8-d664-42e5-865a-0c1fbfb97c76" />
 
 PC0 wants to send data to 192.168.1.3, PC0 already knows the source IP adress: 192.168.1.3 and the destination IP address: 192.168.1.3, but Ethernet communication requires MAC address
